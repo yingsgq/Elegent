@@ -1,13 +1,4 @@
-clear;
-% Name: Linuo Jiang
-% Email: ssylj3@nottingham.edu.cn
-a = arduino('COM9', 'Uno');
-
-% Pin setup
-sensorPin = 'A0';
-greenLED = 'D4';
-yellowLED = 'D3';
-redLED = 'D2';
+function temp_monitor(a, sensorPin, greenLED, yellowLED, redLED)
 
 % Temperature sensor parameters (LM35 assumed)
 V0 = 0.5;   % Voltage at 0°C (500 mV)

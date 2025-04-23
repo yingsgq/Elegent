@@ -1,6 +1,4 @@
 
-% Name: Linuo Jiang
-% Email: ssylj3@nottingham.edu.cn
 function temp_prediction(a, sensorPin, greenLED, yellowLED, redLED)
 % TEMP_PREDICTION - Real-time temperature monitoring and prediction
 %
