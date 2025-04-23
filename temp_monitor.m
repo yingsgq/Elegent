@@ -1,5 +1,4 @@
 clear;
-% Task1.m
 % Name: Linuo Jiang
 % Email: ssylj3@nottingham.edu.cn
 a = arduino('COM9', 'Uno');

@@ -1,4 +1,4 @@
-% Task1.m
+
 % Name: Linuo Jiang
 % Email: ssylj3@nottingham.edu.cn
 function temp_prediction(a, sensorPin, greenLED, yellowLED, redLED)
